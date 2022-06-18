@@ -3,6 +3,8 @@
 ## This list contains all the IDs I've collected from the time I've spent hosting, it won't stop all the bots but it will atleast assist in getting most of them.
 This also includes a lot of the hosters aswell.
 
+*and yes, including the EU hosters (sorry not sorry)*
+
 **For all the degenerates I've seen in the cheating community, I want to thank the small few that managed to avoid that cess-pool.
 You know who you are, and thank you. If it wasn't for this shitty place, I would've never found interest in coding to begin with.**
 
