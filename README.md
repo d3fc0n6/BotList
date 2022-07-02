@@ -1,6 +1,7 @@
 # mega trolling for all da hosters
 
-## This list contains all the IDs I've collected from the time I've spent hosting, it won't stop all the bots but it will atleast assist in getting most of them.
+## This list contains all the IDs I've collected from the time I've spent hosting, This list has no intentions of stopping bots but mainly a show of proof that I'm stepping out. However it may help.
+
 This also includes a lot of the hosters aswell.
 
 *and yes, including the EU hosters (sorry not sorry)*
